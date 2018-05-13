@@ -1,0 +1,5 @@
+# so=dist_labels.T(dist_labels.T[:,0].argsort()).T
+# -np.sort(-dist_labels,axis=1)
+# for index,dist in np.nu
+# np.concatenate((np.sum(np.square(x - datas),axis=1)**0.5,np.array(labels)),axis=0)
+# sorted([1,2],reverse=True)
